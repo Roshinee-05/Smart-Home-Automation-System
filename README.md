@@ -1,34 +1,34 @@
-# 🏠 Smart Home Automation System – **EmbedQuest Winner (Samgatha x Vashisht 2025)**
+# Smart Home Automation System – **EmbedQuest Winner (Samgatha x Vashisht 2025)**
 
-**🏆 First Prize Winner** – *EmbedQuest 2025*, hosted by **IIITDM Kancheepuram** during **Samgatha x Vashisht 2025**.
+**First Prize Winner** – *EmbedQuest 2025*, hosted by **IIITDM Kancheepuram** during **Samgatha x Vashisht 2025**.
 
 This Smart Home Automation System is a fully integrated embedded solution built using **Arduino**, focusing on safety, automation, and convenience. It combines **occupancy-based control**, **environmental hazard alerts**, and **automated rain protection** using sensor-actuator fusion.
 
 ---
 
-## 📌 Features
+## Features
 
-### 👥 Occupancy-Based Control
+### Occupancy-Based Control
 - Entry/exit detection using two **ultrasonic sensors**
 - Automatic room light control based on people count
 - LCD greetings like **"Welcome!"** and **"Thank You!"**
 
-### 🌧 Rain Detection and Clothes Protection
+### Rain Detection and Clothes Protection
 - **Rain sensor** detects showers
 - Servo motor pulls clothes indoors automatically
 - Rising/falling buzzer tone alerts users
 
-### 🔥 Fire Detection System
+### Fire Detection System
 - **Flame sensor** detects fire presence
 - Fast pulsing buzzer alert
 - LCD displays **"FLAME ALERT!"**
 
-### 🧪 Gas Leakage Detection
+### Gas Leakage Detection
 - MQ-based gas sensor with **adaptive threshold calibration**
 - Medium-tone buzzer alert
 - LCD displays **"GAS LEAKAGE!"**
 
-### 🖥 Live Display and Interaction
+### Live Display and Interaction
 - **I2C LCD (16x2)** shows:
   - Occupancy count
   - Alert messages
@@ -37,7 +37,7 @@ This Smart Home Automation System is a fully integrated embedded solution built 
 
 ---
 
-## 🔧 Hardware Components
+## Hardware Components
 
 | Component              | Quantity |
 |------------------------|----------|
@@ -54,7 +54,7 @@ This Smart Home Automation System is a fully integrated embedded solution built 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **System Initialization**
    - LCD shows startup message
